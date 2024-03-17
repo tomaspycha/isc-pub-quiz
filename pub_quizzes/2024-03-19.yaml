@@ -1,5 +1,5 @@
-date: 11/12/2023
-place: Pivní jistota
+date: 19/03/2024
+place: ISC HUB
 name: ESN Pub Quiz
 template: presentation.j2
 output: output.html
@@ -11,20 +11,20 @@ results:
 additional_rules:
   - Please, disconnect all of your devices from the WiFi so that the Pub Quiz works well.
 topics:
-  - name: Events of 2023
+  - name: Famous namesakes
     questions:
       - type: simple
-        text: Azerbaijan launched a military offensive in what region on September 19, overcoming forces aligned with Armenia?
-        answer: Nagorno-Karabakh
-        question_img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaukasus.jpg/1280px-Kaukasus.jpg
-        answer_img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaukasus.jpg/1280px-Kaukasus.jpg
+        text: An American jazz trumpeter and singer shares his last name with an astronaut. What are the names of these two people? (half a point for the shared last name, half a point for both full names)
+        answer: Louis Armstrong and Neil Armstrong
+        question_img_src: https://cdn.openart.ai/stable_diffusion/8f491be4322ae905b1c0ba87629ac4230bacd961_2000x2000.webp
+        answer_img_src: https://revistaforum.com.br/u/fotografias/m/2021/1/4/f1280x720-58752_190427_5050.jpg
       - type: simple
-        text: Which of the neighbors of the Czech republic have held nation-wide parliament elections in 2023?
-        answer: Slovakia (parliament) & Poland (parliament)
+        text: An Austrian politician associated with 19th century neo-absolutism and a Baroque music composer had the same last name. Who are they? (half a point for the last name, half a point for both full names)
+        answer: Alexander (von) Bach and Johann Sebastian Bach
         question_img_src: https://d-maps.com/m/europa/czechia/tchequie/tchequie21.gif
       - type: simple
-        text: In June of this year, a submersible operated by American company OceanGate imploded during an expedition to view the wreck of Titanic in the North Atlantic Ocean.<br>What was the name of the sumbersible?
-        answer: Titan
+        text: The wife of William Shakespeare had the same name as a 41-year-old American actress. For a point, write their full name.
+        answer: Anne Hathaway
         question_img_src: https://media.vanityfair.com/photos/64da9183d76b1f5267df6c16/master/pass/VF_1023_Titan_opener.jpg
         answer_img_src: https://media.vanityfair.com/photos/64da9183d76b1f5267df6c16/master/pass/VF_1023_Titan_opener.jpg
       - type: simple
