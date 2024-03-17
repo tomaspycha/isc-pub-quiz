@@ -28,108 +28,100 @@ topics:
         question_img_src: https://media.vanityfair.com/photos/64da9183d76b1f5267df6c16/master/pass/VF_1023_Titan_opener.jpg
         answer_img_src: https://media.vanityfair.com/photos/64da9183d76b1f5267df6c16/master/pass/VF_1023_Titan_opener.jpg
       - type: simple
-        text: In July of this year, thanks to an Internet phenomenon 'Barbenheimer', the release of movies Barbie and Oppenheimer on the same date was a massive success. How much did both films earn at the box office combined?<br><br>(in USD, tollerance 200 million)
-        answer: 2,4 Billion USD
+        text: The first US secretary of the treasury had the same last name as a British Formula One driver. What are their names? (half a point for the last name, half a point for both full names)
+        answer: Alexander Hamilton and Lewis Hamilton
         question_img_src: https://upload.wikimedia.org/wikipedia/ru/1/1b/Barbenheimer.jpg
         answer_img_src: https://upload.wikimedia.org/wikipedia/ru/1/1b/Barbenheimer.jpg
       - type: simple
-        text: In November, The Beatles released their last ever song, featuring restored vocals of John Lennon and unpublished guitar tracks by George Harrison. <br><br>What is the name of the song?
-        answer: Now and Then
+        text: One is an American actor and WWE wrestler. The other used to be Prime Minister of the UK. Again, their last name is the same. Who are they? (half a point for the last name, half a point for both full names)
+        answer: Dwayne (The Rock) Johnson and Boris Johnson
         question_img_src: https://upload.wikimedia.org/wikipedia/commons/3/33/The_Beatles_logo.svg
         answer_img_src: https://www.oklahoman.com/gcdn/authoring/authoring-images/2023/11/02/NOKL/71426092007-beatles-now-and-then-cover-by-ed-ruscha.jpg
-  - name: Pivotal products of the 20th century
-    short_name: Products
+  - name: Traveling across Europe
     questions:
       - type: simple
-        text: What is the nickname of this iconic car designed in the 1930s in Nazi Germany that was manufactured all the way until 2003? 
-        answer: Beetle (Volkswagen Type 1)
+        text: Where will the Summer Olympic Games take place this year?
+        answer: Paris
         question_img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/VW_K%C3%A4fer_Baujahr_1966.jpg/1024px-VW_K%C3%A4fer_Baujahr_1966.jpg
         answer_img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/VW_K%C3%A4fer_Baujahr_1966.jpg/1024px-VW_K%C3%A4fer_Baujahr_1966.jpg
       - type: simple
-        text: In 1964, a portable music player was introduced that allowed people to listen to compact casettes. What is its name?
-        answer: Sony Walkman
+        text: Which European country has the most lakes per person? (1 lake for every 26 people to be exact)
+        answer: Finland
         question_img_src: https://upload.wikimedia.org/wikipedia/commons/f/f0/Compactcassette.jpg
         answer_img_src: https://upload.wikimedia.org/wikipedia/commons/4/4e/Original_Sony_Walkman_TPS-L2.JPG
       - type: simple
-        text: In 1979, IKEA introduced a widly successful bookcase to the market, having sold 140 million units worldwide. Under what "human" name is it known?
-        answer: Billy
+        text: If you wanted to go from Prague to Athens by land, what is the minimum number of country borders you would have to cross?
+        answer: 5 (e.g. Czechia-Slovakia-Hungary-Romania-Bulgaria-Greece)
         question_img_src: https://upload.wikimedia.org/wikipedia/commons/d/dd/IKEA_Billy_bookshelf_%2880x106_cm_birch_veneer%29.jpg
         answer_img_src: https://upload.wikimedia.org/wikipedia/commons/d/dd/IKEA_Billy_bookshelf_%2880x106_cm_birch_veneer%29.jpg
       - type: simple
-        text: In 1993, Apple brought to the market a PDA featuring handwriting recognition and internet browsing. Due to its high price tag and the resulting low adoption, it was discontinued 1998, shortly after Steve Jobs returned to Apple. What was the scientist-inspired name of the predecessor to the iPad?
-        answer: Apple Newton
+        text: What is the only European country that doesn’t have any mosquitoes?
+        answer: Iceland
         question_img_src: https://upload.wikimedia.org/wikipedia/commons/e/e3/Colour_Apple_Newton_Logo.JPG
         answer_img_src: https://upload.wikimedia.org/wikipedia/commons/8/85/Apple_Newton-IMG_0454-cropped.jpg
       - type: simple
-        text: What is the name of the supersonic passenger jet, which operated between 1976 and 2003? Passengers travelling this aircraft could arrive from Paris or London to New York City in approximately half the time of a regular passenger airplane.
-        answer: Concorde
+        text: A huge church literally named “Holy Family” has been under construction since 1882 and it was originally supposed to be completed in 2026. In which city is it located?
+        answer: Barcelona (the church is called Sagrada Família)
         question_img_src: https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg
         answer_img_src: https://upload.wikimedia.org/wikipedia/commons/e/eb/British_Airways_Concorde_G-BOAC_03.jpg
 
-  - name: Musicals
+  - name: Netflix
     questions:
       - type: simple
-        text: Who are the authors of the musical "Jesus Christ Superstar"? (Each surname is worth half a point.)
-        answer: Webber & Rice
-        question_img_src: https://www.datocms-assets.com/31357/1684768107-jesus-christ-superstar-muzikal-hdk-praha-vstupenky-00-colosseumticket.jpg
-      - type: musical
-        text: In what Czech musical can you hear Monika Absolonová sing "Teď královnou jsem já" ("Now I'm the queen")?
-        answer: Kleopatra
-        question_img_src: https://d25-a.sdn.cz/d_25/d_15050149/img/93/551x550_6FD8lt.jpg?fl=res%2C350%2C350%2C1%7Cwebp%2C80
-        youtube: 
-          url: https://www.youtube.com/watch?v=AHqhrpTPvr4
-          start_time: 173
-          end_time: 200
-      - type: musical
-        text: What is the meter (how many beats in a measure) of this song from Broadway's Evita?
-        answer: 7/8
-        question_img_src: https://onmilwaukee.com/images/articles/ev/evita/evita_fullsize_story1.jpg
-        youtube:
-          url: https://www.youtube.com/watch?v=tSMuaZXe-44
-          start_time: 66
-          end_time: 96
-      - type: musical
-        text: The authors of South Park (Trey Parker & Matt Stone) also made an award-winning musical. What is the name of this musical?
-        answer: The Book of Mormon
-        question_img_src: https://static01.nyt.com/images/2011/03/25/arts/25MORMON-span/MORMON-articleLarge.jpg?quality=75&auto=webp&disable=upscale
-        answer_img_src: https://upload.wikimedia.org/wikipedia/en/8/8c/The_Book_of_Mormon_poster.jpg
-        youtube:
-          url: https://www.youtube.com/watch?v=NHb_BNA3fn8
-          start_time: 121
-          end_time: 151
+        text: In which popular Netflix series do the characters use city names like Tokyo, Berlin or Rio as their nicknames?
+        answer: Money Heist / La casa de papel
+        question_img_src: 
+        answer_img_src: https://www.datocms-assets.com/31357/1684768107-jesus-christ-superstar-muzikal-hdk-praha-vstupenky-00-colosseumticket.jpg
       - type: simple
-        text: What's the Academy award (Oscars) equivalent in musical theatre? 
-        answer: The Tony awards/Tonies
-        question_img_src: assets/images/tony.png
+        text: In late 2020 the sales of a certain board game increased significantly after Netflix released a series about it. Which game are we talking about?
+        answer: chess (the series is The Queen’s Gambit)
+        question_img_src: 
+        answer_img_src:
+      - type: simple
+        text: How many contestants compete at the beginning of the Squid Game series? (if nobody knows, the closest guess gets a point)
+        answer: 456
+        question_img_src: 
+        answer_img_src:
+      - type: simple
+        text: What is the name of the satirical movie about a comet which will destroy human civilization and governments doing nothing about it, starring Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep and Ariana Grande?
+        answer: Don’t Look Up / K zemi hleď!
+        question_img_src: 
+        answer_img_src:
+      - type: simple
+        text: How many paying subscribers does Netflix have worldwide (as of January 23rd 2024)? (closest guess gets a point)
+        answer: 260 million
+        question_img_src: 
+        answer_img_src:
 
-  - name: Czech your facts
+  - name: Medieval History
     questions:
       - type: simple
-        text: What is the largest pond in Czechia?
-        answer: Rožmberk
-        question_img_src: https://budejovice.rozhlas.cz/sites/default/files/styles/cro_16x9_tablet/public/images/cfacd6662ed8495994fe1dabc22f1bb2.jpg?itok=YGxxLMqT
+        text: What is the name for a public assembly where Viking men met to make political decisions and settle disputes?
+        answer: thing / althing
+        question_img_src: 
+        answer_img_src: 
       - type: simple
-        text: What building is located at the joint of Vltava and Otava?
-        answer: (Zvíkov) castle
-        question_img_src: https://www.astrocesty.eu/images/lokality/big/p-soutok-becev-02-1293911424.jpg
-        answer_img_src: https://d34-a.sdn.cz/d_34/c_img_F_N/WxOixo.jpeg?fl=res,500,500,1
+        text: Who was the legendary king who supposedly defended Britain from Anglo-Saxon invaders around 500 AD?
+        answer: King Arthur
+        question_img_src: 
+        answer_img_src: 
       - type: simple
-        text: A statue of what slavic god is located on top of the mountain Radhošť?
-        answer: Radegast
-        question_img_src: https://www.pustevny.cz/wp-content/uploads/2018/06/Radhost-1000.jpg
-        answer_img_src: https://upload.wikimedia.org/wikipedia/commons/a/a0/New_granite_sculpture_of_Radegast.jpg
+        text: How long did the Hundred Years’ War actually take? (if nobody knows, the closest guess gets a point)
+        answer: 116 years
+        question_img_src: 
+        answer_img_src: 
       - type: simple
-        text: What is located in the picture?
-        answer: The Pilsner Urquell brewery main gate
-        question_img_src: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pilsner-Urquell-Main-Gate.jpg/1280px-Pilsner-Urquell-Main-Gate.jpg
+        text: What is the name of the Kurdish sultan who captured Jerusalem from Christians in 1187?
+        answer: Saladin
+        question_img_src: 
+        answer_img_src: 
       - type: simple
-        text: Between Prague and Pilsen, you can find a geological area known for its trilobite fossils. After what French paleontologist was it named?
-        answer: Joachim Barrande
-        question_img_src: https://cdn.kudyznudy.cz/files/84/844bf922-be9d-4742-b770-6cf4c16db1e1.jpg?v=20210405081119
-        answer_img_src: https://www.lib.cas.cz/wp-content/uploads/Barrande.png
+        text: Which state spanned across most of today’s Slovakia, Hungary and other neighboring regions in the late 9th century?
+        answer: Great Moravia
+        question_img_src: 
+        answer_img_src: 
 
-
-  - name: Culinary Conundrums
+  - name: 
     questions:
       - type: simple
         text: How many herbs and spices does the secret KFC recipe contain?
